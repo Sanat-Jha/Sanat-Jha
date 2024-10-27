@@ -9,6 +9,9 @@
 <h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=34F745&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%7C+Django+Enthusiast;Flutter+%7C+Mobile+App+Dev;Always+Learning+%26+Exploring" alt="Typing SVG" /></h2>
 
 ---
+## 👨‍💻 Portfolio
+- [Checkout my portfolio](https://sanat-jha.github.io)
+---
 
 ## 🎓 About Me
 I'm a B.Tech student at [IIT Roorkee](https://www.iitr.ac.in), with a deep passion for programming and technology. My expertise lies in **Python** and **Django**, and I enjoy building mobile applications with **Flutter**. I'm also expanding my knowledge in web development using **HTML**, **CSS**, and learning **C++**.
