@@ -10,7 +10,7 @@
 
 ---
 ## 👨‍💻 Portfolio
-- [Checkout my portfolio](https://sanat-jha.github.io)
+- [Checkout my portfolio](https://sanat-jha.me)
 ---
 
 ## 🎓 About Me
@@ -30,16 +30,12 @@ I'm a B.Tech student at [IIT Roorkee](https://www.iitr.ac.in), with a deep passi
 - Full-stack development concepts
 - Mobile app design patterns with Flutter
 
----
-
-## 🌟 Projects
-- **[Art Genix](https://artgenix.netlify.app/)**: A print-on-demand design showcase website built using HTML, CSS, and JavaScript.
 
 ---
 
 ## 📫 Let's Connect!
 Feel free to reach out to me via:
-- [LinkedIn](https://www.linkedin.com/in/sanat-kumar-jha-353429322/)
+- [LinkedIn]([https://www.linkedin.com/in/sanatjha4/])
 - [Instagram](https://www.instagram.com/sanatjha4)
 - Email: sanatjha4@gmail.com
 
