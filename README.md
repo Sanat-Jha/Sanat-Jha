@@ -10,7 +10,7 @@
 
 ---
 ## 👨‍💻 Portfolio
-- [Checkout my portfolio](https://sanat-jha.me)
+- [Checkout my portfolio](https://sanatjha.me)
 ---
 
 ## 🎓 About Me
