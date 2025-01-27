@@ -25,16 +25,6 @@
   <a href="https://sanatjha.me" style="background-color: #4CAF50; color: white; padding: 10px 20px; font-size: 16px; border: none; border-radius: 10px; cursor: pointer; animation: pulse 2s infinite;">
       🌐 Check Out My Portfolio
   </a>
-  <style>
-  @keyframes pulse {
-    0%, 100% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.1);
-    }
-  }
-</style>
 </div>
 
 
