@@ -22,10 +22,8 @@
 
 ## 🖥️ **Portfolio**
 <div align="center">
-  <a href="https://sanatjha.me" style="text-decoration: none;">
-    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; font-size: 16px; border: none; border-radius: 10px; cursor: pointer; animation: pulse 2s infinite;">
+  <a href="https://sanatjha.me" style="background-color: #4CAF50; color: white; padding: 10px 20px; font-size: 16px; border: none; border-radius: 10px; cursor: pointer; animation: pulse 2s infinite;">
       🌐 Check Out My Portfolio
-    </button>
   </a>
 </div>
 
@@ -80,7 +78,6 @@ Hi! I’m a B.Tech student at [IIT Roorkee](https://www.iitr.ac.in), where I’m
 ## 📊 **GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanat-Jha&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanat-Jha&theme=radical" alt="GitHub Streak"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanat-Jha&theme=radical" alt="GitHub Profile Details"/>
 </div>
 
